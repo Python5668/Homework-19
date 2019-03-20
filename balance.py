@@ -44,6 +44,6 @@ print(isParenBalanced('[]')) # works
 print(isParenBalanced('([{}])')) # works
 print(isParenBalanced('(([)')) # works
 print(isParenBalanced('))')) # works
-print(isParenBalanced('((')) #nope
-print(isParenBalanced('')) #nope
+print(isParenBalanced('((')) # works
+print(isParenBalanced('')) # works
 
